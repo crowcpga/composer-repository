@@ -2,6 +2,6 @@
 class BetterTool {
 	public function something()
 	{
-		return "Awesome, Hello World!";
+		return "Awesome, Hello World with changes!";
 	}
 }
