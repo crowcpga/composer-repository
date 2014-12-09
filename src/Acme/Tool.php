@@ -1,7 +1,7 @@
 <?php 
 namespace Acme;
 class Tool{
-	public function something(){
+	public static function something(){
 		return "Hello World with changes!!!";
 	}
 }
