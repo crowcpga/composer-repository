@@ -1,6 +1,6 @@
 <?php  namespace Acme;
 class BetterTool {
-	public function something()
+	public static function something()
 	{
 		return "Awesome, Hello World with changes!";
 	}
